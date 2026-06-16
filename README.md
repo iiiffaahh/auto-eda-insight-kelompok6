@@ -1,3 +1,3 @@
-# Outputs
+# Forecasting Model
 
-Folder untuk menyimpan chart, report, dan file hasil export dari dashboard.
+Folder ini disiapkan untuk model time series/forecasting apabila dikembangkan lebih lanjut.
