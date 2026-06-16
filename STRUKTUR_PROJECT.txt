@@ -1,0 +1,25 @@
+Auto_EDA_Insight/
+├── app.py
+├── requirements.txt
+├── README.md
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── sample_dataset/
+├── backend/
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── descriptive_stats.py
+│   ├── categorical_analysis.py
+│   ├── visualization.py
+│   ├── time_series.py
+│   ├── insight_generator.py
+│   ├── export_report.py
+│   └── data_cleaning.py
+├── frontend/
+│   ├── templates/
+│   └── static/
+├── outputs/
+├── models/
+├── docs/
+└── tests/
